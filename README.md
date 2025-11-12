@@ -6,7 +6,7 @@ Esta aplicación no busca funcionalidad real, solo servir como punto de partida 
 
 ## Recursos complementarios
 
-- [Slides de la charla](https://drive.google.com/file/d/1LI5VErFMBxqQJb6vp6SxOT3g2N0FoXaS/view?usp=sharing)
+- [Slides de la charla](https://drive.google.com/file/d/1H8vIbi8zlOMTATyzGn01HpLa3Pk3Xv1C/view?usp=sharing)
 
 ## Prompts de ejemplo usados en la charla
 

@@ -1,4 +1,4 @@
-# 🦆 Cómo la IA me obliga a pensar más durante el desarrollo
+# 🤖 Cómo la IA me obliga a pensar más durante el desarrollo
 
 Proyecto creado para la charla del nombre descrito arriba, para el evento [Nerdearla España 2025](https://nerdearla.es/). Charla creada y expuesta por Manu Rodríguez [@manurgdev](https://manurg.dev).
 

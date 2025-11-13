@@ -6,6 +6,7 @@ Esta aplicación no busca funcionalidad real, solo servir como punto de partida 
 
 ## Recursos complementarios
 
+- [Charla subida en Youtube](https://www.youtube.com/watch?v=rfR_UUkB7cI)
 - [Slides de la charla](https://drive.google.com/file/d/1H8vIbi8zlOMTATyzGn01HpLa3Pk3Xv1C/view?usp=sharing)
 
 ## Prompts de ejemplo usados en la charla
